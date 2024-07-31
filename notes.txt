@@ -1,0 +1,6 @@
+# to switched branch
+git checkout -b any-name
+
+# to get the work fromm other members to the main brdanch
+
+git pull origin suha --allow-unrelated-histories
